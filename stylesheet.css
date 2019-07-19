@@ -1,0 +1,48 @@
+body{
+  color:black;
+  background-color: white;
+  font-family: 'Notable', sans-serif;
+
+}
+
+.nav{
+  text-align: center;
+  background-color: #ED2939;
+}
+
+.navbar{
+  list-style-type: none;
+}
+.title{
+  color: ##2B1B17;
+  background-color: #C21807;
+  text-align: center;
+}
+.paragraph{
+  font-size: 20px;
+  text-align: center;
+  color: black
+}
+
+.navlink{
+  display: inline;
+}
+
+a{
+  text-decoration: none;
+  color: #C0C0C0
+}
+.img_image{
+  width: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+.bar{
+  background-color: #C21807;
+}
+
+a:hover{
+  color: white;
+  background-color: black;
+}
